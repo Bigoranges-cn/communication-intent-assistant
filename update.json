@@ -1,5 +1,5 @@
 {
-  "version": "0.2.0-beta",
-  "download_url": "https://github.com/Bigoranges-cn/communication-intent-assistant/releases/tag/v0.2.0-beta",
-  "release_notes": "新增智能、工作、日常和情感分析模式；产品更名为知意参谋。"
+  "version": "0.3.0-beta",
+  "download_url": "https://github.com/Bigoranges-cn/communication-intent-assistant/releases/tag/v0.3.0-beta",
+  "release_notes": "新增授权码激活、最多两台设备绑定和用户可自主开启的匿名运行统计；不上传聊天内容、联系人、分析结果或 API Key。"
 }
