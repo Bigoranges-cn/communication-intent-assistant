@@ -1,0 +1,4 @@
+{
+  "version": "jev-v8-deep-contextual-analysis.1",
+  "guidance": "Analyze each latest incoming message independently while using recent valid context. Every displayed judgment must either explain why the person said it or give a concrete next action. Separate explicit facts from inference; calibrate inference as high, medium, low, or insufficient. For LIFE, prioritize direct subtext, interaction signals, current need, concrete reply risk, and an actionable next move; never diagnose personality or mental illness. For WORK_PRO in home design, distinguish budget pressure, value comparison, discount probing, design value, materials, workmanship, schedule, decision makers, delay, buying signals, complaints, responsibility, service, and team execution. Avoid generic filler and invented numeric precision."
+}
