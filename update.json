@@ -1,5 +1,5 @@
 {
-  "version": "0.3.0-beta",
-  "download_url": "https://github.com/Bigoranges-cn/communication-intent-assistant/releases/tag/v0.3.0-beta",
-  "release_notes": "新增授权码激活、最多两台设备绑定和用户可自主开启的匿名运行统计；不上传聊天内容、联系人、分析结果或 API Key。"
+  "version": "0.4.0-beta",
+  "download_url": "https://github.com/Bigoranges-cn/communication-intent-assistant/releases/tag/v0.4.0-beta",
+  "release_notes": "逐条消息多维意图分析与工作/生活场景决策合并为一次 JEV 调用；新增上下文变化判断，取消收费与授权码，免费自动启用。"
 }
