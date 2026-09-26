@@ -1,5 +1,5 @@
 {
-  "version": "0.5.0-beta",
-  "download_url": "https://github.com/Bigoranges-cn/communication-intent-assistant/releases/tag/v0.5.0-beta",
-  "release_notes": "深化 LIFE 与 WORK_PRO 上下文分析：潜台词、心理互动信号、客户顾虑和可执行建议更具体；新增独立分析模板更新。"
+  "version": "0.6.0-beta",
+  "download_url": "https://github.com/Bigoranges-cn/communication-intent-assistant/releases/tag/v0.6.0-beta",
+  "release_notes": "新增 Windows QQ 聊天识别与独立模式绑定；继续支持个人微信和企业微信。补充 Android 与 macOS 版本实施设计。"
 }
