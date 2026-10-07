@@ -1,5 +1,5 @@
 {
-  "version": "0.6.0-beta",
-  "download_url": "https://github.com/Bigoranges-cn/communication-intent-assistant/releases/tag/v0.6.0-beta",
-  "release_notes": "新增 Windows QQ 聊天识别与独立模式绑定；继续支持个人微信和企业微信。补充 Android 与 macOS 版本实施设计。"
+  "version": "0.7.0-beta",
+  "download_url": "https://github.com/Bigoranges-cn/communication-intent-assistant/releases/tag/v0.7.0-beta",
+  "release_notes": "Windows 端升级为知意吸附式主面板；新增 JEV/StartLux 决策模型、Ollama/OpenAI-compatible 生成模型、Skill 导入、三条候选回复与安全填入。"
 }
