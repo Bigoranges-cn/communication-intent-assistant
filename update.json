@@ -1,5 +1,5 @@
 {
-  "version": "0.7.1-beta",
-  "download_url": "https://github.com/Bigoranges-cn/communication-intent-assistant/releases/tag/v0.7.1-beta",
-  "release_notes": "主面板升级为396px无滚动紧凑布局，完整显示三条自动生成回复；设置改为齿轮图标，模型状态精简；新增模型选项与童锦程Skill，并修复右侧吸附、高度跟随和窗口置顶问题。"
+  "version": "0.7.2-beta",
+  "download_url": "https://github.com/Bigoranges-cn/communication-intent-assistant/releases/tag/v0.7.2-beta",
+  "release_notes": "固定分析与回复区域高度，避免结果变化带动功能控件移动；保护下拉框和输入操作不被后台刷新打断；吸附时保留手动宽度；精简实时决策请求并缩短识别等待。"
 }
